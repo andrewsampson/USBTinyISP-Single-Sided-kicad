@@ -1,0 +1,18 @@
+This project is a re-implementation of the PCB for ladyada's USBtinyISP, a 
+flash programmer for AVR microcontrollers.  The board has been redesigned 
+using kicad (instead of Eagle) and is single-sided (instead of two-sided).  
+The board layout is based on lowvoltage's design, with some minor changes.  
+Additionally, the board is now compatible with dangerousprototypes' "Sick of 
+Beige" standard, which specifies the board size and mounting hole positions.  
+The lowvoltage design was already really close to the 60mm x 37mm standard, so 
+it didn't take much tweaking to make everything fit.
+
+The USBtinyISP page:
+http://www.ladyada.net/make/usbtinyisp/
+
+lowvoltage's design:
+https://github.com/lowvoltage/USBTinyISP-Single-Sided
+
+The "Sick of Beige" standard:
+http://dangerousprototypes.com/docs/Sick_of_Beige_standard_PCB_sizes_v1.0
+

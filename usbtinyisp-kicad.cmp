@@ -1,0 +1,157 @@
+Cmp-Mod V01 Created by CvPCB (2010-03-14)-final date = Sat 03 Nov 2012 10:07:31 PM CDT
+
+BeginCmp
+TimeStamp = /50959A09;
+Reference = C1;
+ValeurCmp = 0.1uF;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /50959A23;
+Reference = C2;
+ValeurCmp = 100uF;
+IdModule  = C1V5;
+EndCmp
+
+BeginCmp
+TimeStamp = /50959BDC;
+Reference = C3;
+ValeurCmp = 33pF;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /50959F3C;
+Reference = C4;
+ValeurCmp = 33pF;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /509590CE;
+Reference = D1;
+ValeurCmp = 3.6V;
+IdModule  = D4;
+EndCmp
+
+BeginCmp
+TimeStamp = /509590A6;
+Reference = D2;
+ValeurCmp = 3.6V;
+IdModule  = D4;
+EndCmp
+
+BeginCmp
+TimeStamp = /50957E87;
+Reference = IC1;
+ValeurCmp = ATTINY2313-P;
+IdModule  = DIP-20__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /509588D3;
+Reference = IC2;
+ValeurCmp = 74LS125;
+IdModule  = DIP-14__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /50958F34;
+Reference = J1;
+ValeurCmp = USB_2;
+IdModule  = USB_B;
+EndCmp
+
+BeginCmp
+TimeStamp = /5095A0D8;
+Reference = JP1;
+ValeurCmp = CONN_3X2;
+IdModule  = pin_array_3x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5095A321;
+Reference = JP3;
+ValeurCmp = OUTPWR;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /509593AB;
+Reference = LED1;
+ValeurCmp = LED;
+IdModule  = LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /509593A0;
+Reference = LED2;
+ValeurCmp = LED;
+IdModule  = LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /509587FF;
+Reference = R1;
+ValeurCmp = 68R;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /50958810;
+Reference = R2;
+ValeurCmp = 68R;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /50958787;
+Reference = R3;
+ValeurCmp = 1K5;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /50958797;
+Reference = R4;
+ValeurCmp = 1K5;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /509587A2;
+Reference = R5;
+ValeurCmp = 1K5;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /509587A4;
+Reference = R6;
+ValeurCmp = 1K5;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /509587A7;
+Reference = R7;
+ValeurCmp = 1K5;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /50958764;
+Reference = R10;
+ValeurCmp = 10K;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /50959B95;
+Reference = XTL1;
+ValeurCmp = 12MHz;
+IdModule  = HC-18UV;
+EndCmp
+
+EndListe
