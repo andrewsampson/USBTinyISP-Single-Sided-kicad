@@ -2,6 +2,10 @@ This project is a re-implementation of the PCB for ladyada's USBtinyISP, a
 flash programmer for AVR microcontrollers.  The board has been redesigned 
 using kicad (instead of Eagle) and is single-sided (instead of two-sided).  
 The board layout is based on lowvoltage's design, with some minor changes.  
+
+The primary goal of this project was to produce USBtinyISP boards with my CNC 
+machine.  This necessitated a single-sided design with wide traces.  
+
 Additionally, the board is now compatible with dangerousprototypes' "Sick of 
 Beige" standard, which specifies the board size and mounting hole positions.  
 The lowvoltage design was already really close to the 60mm x 37mm standard, so 
