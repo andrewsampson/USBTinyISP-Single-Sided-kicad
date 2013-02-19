@@ -1,0 +1,59 @@
+Note - Also need a 20-pin IC socket, a 14-pin IC socket, some 0.1-inch headers,
+and some ribbon cable.
+
+
+Mouser #: 	649-71600-006LF
+Desc.: 	Headers & Wire Housings 2X3P SNGL BEAM RCPL 30 microinch gold
+Qty per board: 	2
+
+Mouser #: 	649-61729-0010BLF
+Desc.: 	USB Connectors USB TYPE B RECEPT
+Qty per board: 	1
+
+Mouser #: 	512-1N5227B
+Desc.: 	Zener Diodes 3.6V 0.5W Zener
+Qty per board: 	2
+
+Mouser #: 	859-LTL-1CHG
+Desc.: 	Standard LEDs - Through Hole Green Diffused
+Qty per board: 	1
+
+Mouser #: 	859-LTL-1CHE
+Desc.: 	Standard LEDs - Through Hole Red Diffused
+Qty per board: 	1
+
+Mouser #: 	291-47-RC
+Desc.: 	Carbon Film Resistors - Through Hole 47ohms 0.05
+Qty per board: 	2
+
+Mouser #: 	291-1.5K-RC
+Desc.: 	Carbon Film Resistors - Through Hole 1.5Kohms 0.05
+Qty per board: 	5
+
+Mouser #: 	291-10K-RC
+Desc.: 	Carbon Film Resistors - Through Hole 10Kohms 0.05
+Qty per board: 	1
+
+Mouser #: 	667-EEA-GA1A101
+Desc.: 	Aluminum Electrolytic Capacitors - Leaded 10volt 100uF 6.3X7mm L/S=2.5mm Bulk
+Qty per board: 	1
+
+Mouser #: 	80-C410C104K5R-TR
+Desc.: 	Multilayer Ceramic Capacitors MLCC - Leaded 50volts .1uF 10%
+Qty per board: 	1
+
+Mouser #: 	140-50N5-330J-RC
+Desc.: 	Ceramic Disc Capacitors 50V 33pF NPO 5% Tol
+Qty per board: 	2
+
+Mouser #: 	559-FOXS120-20-LF
+Desc.: 	Crystals 12MHz 20pF
+Qty per board: 	1
+
+Mouser #: 	595-SN74AHC125N
+Desc.: 	Buffers & Line Drivers Tri-State Quad Bus
+Qty per board: 	1
+
+Mouser #: 	556-ATTINY2313-20PU
+Desc.: 	8-bit Microcontrollers - MCU 2kB Flash 0.128kB EEPROM 18 I/O Pins
+Qty per board: 	1
